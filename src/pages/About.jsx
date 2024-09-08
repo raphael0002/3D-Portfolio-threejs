@@ -3,7 +3,7 @@ import { skills } from "../constants";
 
 const About = () => {
   return (
-    <section className="max-container">
+    <section className="max-container h-[100vh]">
       <h1 className="head-text">
         Hello, I'm{" "}
         <span className="blue-gradient_text font-semibold drop-shadow">
