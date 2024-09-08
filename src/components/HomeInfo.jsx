@@ -18,7 +18,7 @@ const renderContent = {
   ),
   2: (
     <InfoBox
-      text="I'm an aspiring full-stack developer"
+      text="Crafting full-stack web applications with a focus on responsive design, efficient functionality, and a commitment to growing as a versatile developer in every layer of the stack."
       link="/about"
       btnText="Learn More"
     />
