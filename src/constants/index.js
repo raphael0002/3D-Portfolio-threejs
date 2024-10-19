@@ -16,7 +16,7 @@ import {
     typescript,
     recipe,
 } from "../assets/icons";
-import { chatify } from "../assets/icons/chatify.png";
+import chatify  from "../assets/icons/chatify.png";
 
 export const skills = [
     {
@@ -104,7 +104,7 @@ export const projects = [
         link: 'https://github.com/raphael0002/Meal-Map',
     },
     {
-        iconUrl: Chatify,
+        iconUrl: chatify,
         theme: 'btn-back-orange',
         name: 'Chatify',
         description: "Chatify is a modern chat application built with React and Firebase, offering real-time messaging, secure authentication, and cloud storage. Users can easily sign up, log in, and enjoy seamless conversations with friends, all while benefiting from Firebase's powerful backend services for scalability and data sync across devices.",
