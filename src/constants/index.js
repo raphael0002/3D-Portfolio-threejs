@@ -16,7 +16,7 @@ import {
     typescript,
     recipe,
 } from "../assets/icons";
-import chatify from "../assets/icons/chatify.png";
+import { chatify } from "../assets/icons/chatify.png";
 
 export const skills = [
     {
