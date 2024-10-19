@@ -14,8 +14,9 @@ import {
     react,
     tailwindcss,
     typescript,
-    recipe
+    recipe,
 } from "../assets/icons";
+import chatify from "../assets/icons/chatify.png";
 
 export const skills = [
     {
